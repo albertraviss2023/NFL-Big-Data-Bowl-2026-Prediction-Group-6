@@ -27,5 +27,6 @@ git clone https://github.com/yourusername/nfl-bdb-2026-prediction-group-6.git
 - The training notebook (lgbm-gnn-xgbit5_Final.ipynb) trains the models and saved them to a kaggle working directory. Make sure that the competition dataset is added as inputs before running the notebook.
 - Before the session ends, you need to download these models and put them in a zip file
 - Now import the submission notebook (sub-sun1.ipynb) in kaggle and import the saved models as dataset. Make sure the paths are correct pointing to the models and also that the competition dataset is added as inputs as well.
-- Submit and the score shoulc reflect.
+- Run the Submission notebook to Submit. The score shoulc reflect on leaderboard.
+
 
