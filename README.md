@@ -24,7 +24,8 @@ Models are evaluated on how closely predictions match actual movements.
 ## 🚀 About the notebooks
 ```bash
 git clone https://github.com/yourusername/nfl-bdb-2026-prediction-group-6.git
-- The training notebook (Iteration 5) trains the models and saved them to a kaggle working directory
+- The training notebook (lgbm-gnn-xgbit5_Final.ipynb) trains the models and saved them to a kaggle working directory. Make sure that the competition dataset is added as inputs before running the notebook.
 - Before the session ends, you need to download these models and put them in a zip file
-- Now import the submission notebook in kaggle and import the saved models as dataset. Make sure the paths are correct pointing to the models and also that the compatition dataset is added as input.
+- Now import the submission notebook (sub-sun1.ipynb) in kaggle and import the saved models as dataset. Make sure the paths are correct pointing to the models and also that the competition dataset is added as inputs as well.
 - Submit and the score shoulc reflect.
+
